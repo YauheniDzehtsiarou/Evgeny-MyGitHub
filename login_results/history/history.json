@@ -1,0 +1,1 @@
+{"e8fc2a050d89850e4abd5be64604784e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"cf20181191968150","reportUrl":"http://10.0.0.150:8080/job/Allure/1/allure/#testresult/cf20181191968150","status":"passed","time":{"start":1724340337450,"stop":1724340339226,"duration":1776}}]}}

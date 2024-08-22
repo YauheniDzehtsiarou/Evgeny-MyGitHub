@@ -1,0 +1,1 @@
+[{"buildOrder":2,"reportUrl":"http://10.0.0.150:8080/job/Allure/2/allure","reportName":"AllureReport","data":{"run":1,"retry":1}},{"buildOrder":1,"reportUrl":"http://10.0.0.150:8080/job/Allure/1/allure","reportName":"AllureReport","data":{"run":1,"retry":0}}]

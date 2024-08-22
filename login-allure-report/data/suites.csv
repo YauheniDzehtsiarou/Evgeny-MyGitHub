@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1696","test_valid_login","allur_e-reports","Mon Aug 05 08:40:51 PDT 2024","passed","Mon Aug 05 08:40:53 PDT 2024","","test_allure","",""

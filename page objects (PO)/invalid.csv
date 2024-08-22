@@ -1,0 +1,5 @@
+Username, Password, Error
+tom, SuperSecretPassword!, Your username is invalid!
+asdasd, SuperSecretPassword!, Your username is invalid!
+tomsmith, qsdasd, Your password is invalid!
+tomsmith, 123, Your password is invalid!
